@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: us-central1-docker.pkg.dev/project-364940df-cc83-4237-b7f/task-repo/sample-app
-  tag: v1
+  tag: v2
   pullPolicy: IfNotPresent
 
 service:
