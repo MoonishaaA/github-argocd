@@ -1,4 +1,4 @@
-apiVersion: v2
+apiVersion: v1
 name: sample-app
 description: Helm chart for Sample Application
 type: application
